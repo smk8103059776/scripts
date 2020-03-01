@@ -1,7 +1,7 @@
-def add(x,y):
-    return x+y
-def subtract(x,y,z):
-    return (x-y)-z
+def add(x,y,z):
+    return x+y+z
+def subtract(x,y):
+    pass
 def multiply(x,y):
     pass
 def divide(x,y):
